@@ -1,0 +1,10 @@
+C:\Users\karel.najman\source\repos\Buttons\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\karel.najman\source\repos\Buttons\Buttons\bin\Debug\Buttons.exe
+C:\Users\karel.najman\source\repos\Buttons\Buttons\bin\Debug\Buttons.pdb
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.csprojAssemblyReference.cache
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.Form1.resources
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.exe
+C:\Users\karel.najman\source\repos\Buttons\Buttons\obj\Debug\Buttons.pdb

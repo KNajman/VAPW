@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CV_PEXESO", "CV_PEXESO\CV_PEXESO.csproj", "{8F430E40-8892-4792-BDFD-777A134C60B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1779A472-D3E4-4762-A1C7-FAFC5C5272DB}"
+	ProjectSection(SolutionItems) = preProject
+		Pexeso.cs = Pexeso.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F430E40-8892-4792-BDFD-777A134C60B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F430E40-8892-4792-BDFD-777A134C60B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F430E40-8892-4792-BDFD-777A134C60B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F430E40-8892-4792-BDFD-777A134C60B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {391B6AAA-202D-45A5-916B-9E6181DAC054}
+	EndGlobalSection
+EndGlobal

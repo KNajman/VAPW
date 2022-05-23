@@ -1,0 +1,10 @@
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\bin\Debug\CV_PEXESO.exe.config
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\bin\Debug\CV_PEXESO.exe
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\bin\Debug\CV_PEXESO.pdb
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.csprojAssemblyReference.cache
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.Form1.resources
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.Properties.Resources.resources
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.csproj.GenerateResource.cache
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.csproj.CoreCompileInputs.cache
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.exe
+C:\Users\karel.najman\source\repos\CV_PEXESO\CV_PEXESO\obj\Debug\CV_PEXESO.pdb

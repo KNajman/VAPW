@@ -1,0 +1,4 @@
+C:\Users\karel.najman\source\repos\Utvar\Utvar\obj\Debug\Utvar.Form1.resources
+C:\Users\karel.najman\source\repos\Utvar\Utvar\obj\Debug\Utvar.Properties.Resources.resources
+C:\Users\karel.najman\source\repos\Utvar\Utvar\obj\Debug\Utvar.csproj.GenerateResource.cache
+C:\Users\karel.najman\source\repos\Utvar\Utvar\obj\Debug\Utvar.csproj.CoreCompileInputs.cache

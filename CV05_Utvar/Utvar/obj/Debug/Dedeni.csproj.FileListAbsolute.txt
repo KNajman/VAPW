@@ -1,0 +1,11 @@
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.csproj.AssemblyReference.cache
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.Form1.resources
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.csproj.GenerateResource.cache
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.csproj.CoreCompileInputs.cache
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\bin\Debug\Dedeni.exe.config
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\bin\Debug\Dedeni.exe
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\bin\Debug\Dedeni.pdb
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.Properties.Resources.resources
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.exe
+C:\Users\najma\Documents\VAPW\Utvar\Utvar\obj\Debug\Dedeni.pdb
